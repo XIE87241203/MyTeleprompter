@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">MyTeleprompter</string>
+    <string name="app_name">提词器</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="reset">复位</string>
+    <string name="fold">折叠</string>
+    <string name="unfold">展开</string>
+    <string name="speed_">速度：</string>
+    <string name="text_size_">字号：</string>
+    <string name="input_hint">请输入文字。\n使用“#[数字]#”分段。\n例如：#1#</string>
+
 </resources>
